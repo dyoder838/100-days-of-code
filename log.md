@@ -20,3 +20,13 @@
 
 **Link to work:** 
 [Github Repo](https://github.com/dyoder838/shopify-intern-challenge.git)
+
+### Day 3: January 5 2021
+##### 
+
+**Today's Progress**: Continued to work on polaris and understanding its components. 
+
+**Thoughts:** I finally figured out how to make the components in polaris to work. I am so used to Material UI - and approaching polaris from the same perspective was not helpful. 
+
+**Link to work:** 
+[Github Repo](https://github.com/dyoder838/shopify-intern-challenge.git)

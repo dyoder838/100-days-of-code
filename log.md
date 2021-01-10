@@ -30,3 +30,13 @@
 
 **Link to work:** 
 [Github Repo](https://github.com/dyoder838/shopify-intern-challenge.git)
+
+### Day 4: January 9 2021
+##### 
+
+**Today's Progress**: worked on cleaning up old projects, my password generator needs some work with the randomization, it repeats the same pattern of upper, lower, digit, symbol; over and over again - im working on converting the loop that causes this into a randomized array, that can then be mapped over. 
+
+**Thoughts:** I thought I had this down, but the "Inception" in randomizing a random randomizer gets confusing. ill hit it again tomorrow with a clear mind and a fresh cup of coffee.   
+
+**Link to work:** 
+[Github Repo](https://github.com/dyoder838/dans_password_generator_ptdux.git)

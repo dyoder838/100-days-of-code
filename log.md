@@ -40,3 +40,13 @@
 
 **Link to work:** 
 [Github Repo](https://github.com/dyoder838/dans_password_generator_ptdux.git)
+
+### Day 5: January 16 2021
+##### 
+
+**Today's Progress**: finally figured out my password generation problem - I was over thinking it. just needed to push a returned value from a function to an array - don't know why I didn't just array.push() within a loop. but now I did
+
+**Thoughts:** so yes day 5 is actually day 16... life happens, but im not giving up - getting this seemingly small thing done felt really good. and I learned some misconceptions I had, as well as terminology that was just flat wrong - rewrote most of my comments.    
+
+**Link to work:** 
+[Github Repo](https://github.com/dyoder838/dans_password_generator_ptdux.git)

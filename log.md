@@ -50,3 +50,13 @@
 
 **Link to work:** 
 [Github Repo](https://github.com/dyoder838/dans_password_generator_ptdux.git)
+
+### Day 6: January 18 2021
+##### 
+
+**Today's Progress**: continued working on a template website using react - learning about using swipe navigation in React using react-swipeable-views and react-swipeable-routes. lots of reading... todays work in "RoadSign" Component.
+
+**Thoughts:** this seems overly complex....     
+
+**Link to work:** 
+[Github Repo](https://github.com/dyoder838/helping-hands.git)

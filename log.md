@@ -60,3 +60,13 @@
 
 **Link to work:** 
 [Github Repo](https://github.com/dyoder838/helping-hands.git)
+
+### Day 7: January 19 2021
+##### 
+
+**Today's Progress**: 90% reading 10% coding. I'm still walking through my components for a complete Phase 1 (see repo). I completely forgot that I can use .Josn files to simulate a backend. I finished up half way through my main page.  
+
+**Thoughts:** I keep having to stop myself from coding react like its HTML.. adding content manually instead of creating reuseable components and passing them props.     
+
+**Link to work:** 
+[Github Repo](https://github.com/dyoder838/helping-hands.git)
